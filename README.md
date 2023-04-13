@@ -30,4 +30,4 @@ To be able to install the provided .bundle file, the following preconditions mus
 
 The app can then be installed as follows:
 1. `ride login <robot-ip>`
-2. `ride bundle install measure_beer.bundle`
+2. `ride bundle install measure_beer_<systemversion>.bundle`
